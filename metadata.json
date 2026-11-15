@@ -1,0 +1,6 @@
+{
+  "name": "Shalom",
+  "description": "Café de especialidad y refugio de paz fundamentado en Mateo 6:33 y la Palabra de Dios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
